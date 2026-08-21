@@ -23,8 +23,8 @@ Rooms part of **Hacker Holidays 2026** event:
 * [Day 8 - Towel on the Sunbed](https://github.com/Aquellis/CTF_Writeups/blob/main/HackerHolidays2026/Day8-TowelOnTheSunbed.md)
 * [Day 9 - CryptoCabana](https://github.com/Aquellis/CTF_Writeups/blob/main/HackerHolidays2026/Day9-CryptoCabana.md)
 * [Day 10 - The Hollow Shell](https://github.com/Aquellis/CTF_Writeups/blob/main/HackerHolidays2026/Day10-TheHollowShell.md)
-* [Day 11 - Infinity Pool]()
-* [Day 12 - After Hours]()
+* [Day 11 - Infinity Pool](https://github.com/Aquellis/CTF_Writeups/blob/main/HackerHolidays2026/Day11-InfinityPool.md)
+* [Day 12 - After Hours](https://github.com/Aquellis/CTF_Writeups/blob/main/HackerHolidays2026/Day12-AfterHours.md)
 * [Day 13 - The Guestbook]()
 * [Day 14 - Management Wants a Word]()
 ---
