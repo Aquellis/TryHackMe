@@ -26,7 +26,7 @@ Rooms part of **Hacker Holidays 2026** event:
 * [Day 11 - Infinity Pool](https://github.com/Aquellis/CTF_Writeups/blob/main/HackerHolidays2026/Day11-InfinityPool.md)
 * [Day 12 - After Hours](https://github.com/Aquellis/CTF_Writeups/blob/main/HackerHolidays2026/Day12-AfterHours.md)
 * [Day 13 - The Guestbook](https://github.com/Aquellis/CTF_Writeups/blob/main/HackerHolidays2026/Day13-TheGuestbook.md)
-* [Day 14 - Management Wants a Word]()
+* [Day 14 - Management Wants a Word](https://github.com/Aquellis/CTF_Writeups/blob/main/HackerHolidays2026/Day14-ManagementWantsAWord.md)
 ---
 
 Rooms part of **2026: An AI Odyssey** event:
