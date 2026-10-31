@@ -11,6 +11,13 @@ This is the running list of all TryHackMe rooms completed so far. Click the link
 
 ---
 
+Rooms part of **It's Downtime!** event:
+* [Handbook for the Recently Compromised](https://github.com/Aquellis/CTF_Writeups/blob/main/ItsDowntime2026/HandbookForTheRecentlyCompromised.md)
+* [The Waiting Room](https://github.com/Aquellis/CTF_Writeups/blob/main/ItsDowntime2026/TheWaitingRoom.md)
+* [Strange & Unusual Activity](https://github.com/Aquellis/CTF_Writeups/blob/main/ItsDowntime2026/StrangeAndUnusualActivity.md)
+
+---
+
 Rooms part of **Hacker Holidays 2026** event:
 * [Day 0 - The Brochure](https://github.com/Aquellis/CTF_Writeups/blob/main/HackerHolidays2026/Day0-TheBrochure.md)
 * [Day 1 - The Concierge Knows Too Much](https://github.com/Aquellis/CTF_Writeups/blob/main/HackerHolidays2026/Day1-TheConciergeKnowsTooMuch.md)
@@ -27,6 +34,7 @@ Rooms part of **Hacker Holidays 2026** event:
 * [Day 12 - After Hours](https://github.com/Aquellis/CTF_Writeups/blob/main/HackerHolidays2026/Day12-AfterHours.md)
 * [Day 13 - The Guestbook](https://github.com/Aquellis/CTF_Writeups/blob/main/HackerHolidays2026/Day13-TheGuestbook.md)
 * [Day 14 - Management Wants a Word](https://github.com/Aquellis/CTF_Writeups/blob/main/HackerHolidays2026/Day14-ManagementWantsAWord.md)
+
 ---
 
 Rooms part of **2026: An AI Odyssey** event:
