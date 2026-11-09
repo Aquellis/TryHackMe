@@ -15,6 +15,7 @@ Rooms part of **It's Downtime!** event:
 * [Handbook for the Recently Compromised](https://github.com/Aquellis/CTF_Writeups/blob/main/ItsDowntime2026/HandbookForTheRecentlyCompromised.md)
 * [The Waiting Room](https://github.com/Aquellis/CTF_Writeups/blob/main/ItsDowntime2026/TheWaitingRoom.md)
 * [Strange & Unusual Activity](https://github.com/Aquellis/CTF_Writeups/blob/main/ItsDowntime2026/StrangeAndUnusualActivity.md)
+* [Repossessed SOC Simulator](https://github.com/Aquellis/CTF_Writeups/blob/main/ItsDowntime2026/RepossessedSOCSimulator.md)
 
 ---
 
